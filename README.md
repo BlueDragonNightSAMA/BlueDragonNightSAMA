@@ -1,4 +1,5 @@
-## Hi there 👋
+<video src="./0.0/ASAMA.webm" width="600" autoplay loop muted></video>
+
 
 <!--
 **BlueDragonNightSAMA/BlueDragonNightSAMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
