@@ -1,4 +1,4 @@
-<video src="./0.0/ASAMA.webm" width="600" autoplay loop muted></video>
+[<video src="./0.0/ASAMA.webm" width="600" autoplay loop muted></video>](https://github.com/user-attachments/assets/e17ab5fc-419c-4ff3-8a1c-c4e47dbab38e)
 
 
 <!--
